@@ -1,0 +1,7 @@
+6
+DATA/DB/A.BMP A_bd 
+DATA/DB/B.BMP B_bd 
+DATA/DB/C.BMP C_bd 
+DATA/DB/D.BMP D_bd 
+DATA/DB/E.BMP E_bd 
+DATA/DB/F.BMP F_bd 

@@ -1,0 +1,10 @@
+A.bmp
+A_d.bmp
+B.bmp
+C.bmp
+D.bmp
+D_d.bmp
+E.bmp
+E_d.bmp
+F.bmp
+F2.bmp

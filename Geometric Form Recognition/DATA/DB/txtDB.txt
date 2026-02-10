@@ -1,0 +1,7 @@
+6
+DATA/DB/A_bd.txt
+DATA/DB/B_bd.txt
+DATA/DB/C_bd.txt
+DATA/DB/D_bd.txt
+DATA/DB/E_bd.txt
+DATA/DB/F_bd.txt
