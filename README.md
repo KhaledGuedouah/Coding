@@ -58,8 +58,3 @@ Get-ChildItem -Recurse -Filter *.py | ForEach-Object {
 }
 ```
 
-## Next Improvement Ideas
-
-- Add unit tests per topic (pytest)
-- Add Big-O summary tables per file
-- Add one `problems.md` tracker with status: To Do / In Progress / Done
